@@ -99,6 +99,11 @@ body {
 		margin-bottom: calc(var(--md-spacing) * 2);
 	}
 
+	.product-name,
+	.product-price {
+		font-size: calc(var(--title-font-size) * 1.19);
+	}
+
 	.product-card {
 		flex-direction: row;
 		max-width: 686px;
