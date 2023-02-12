@@ -11,7 +11,6 @@ body {
 	border-radius: var(--md-border-radius);
 	display: flex;
 	flex-direction: column;
-	/* width: initial; */
 	max-width: 343px;
 }
 
@@ -73,6 +72,7 @@ body {
 	border: none;
 	border-radius: 8px;
 	color: var(--white);
+	cursor: pointer;
 	display: flex;
 	font: 500 var(--paragraph-font-size) var(--montserrat-font-family);
 	gap: 8px;
@@ -85,10 +85,6 @@ body {
 .card-btn:hover,
 .card-btn:focus {
 	background-color: var(--very-dark-blue);
-}
-
-.card-btn:hover {
-	cursor: pointer;
 }
 
 @media (min-width: 768px) {
