@@ -44,7 +44,7 @@ Users should be able to:
 
 <br>
 
-[Live Site URL](mmc-product-preview-card-component.vercel.app)
+[Live Site URL](https://mmc-product-preview-card-component.vercel.app)
 
 <br>
 
