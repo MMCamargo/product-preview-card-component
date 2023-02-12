@@ -15,22 +15,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-<br>
-
 ### The Challenge
-
-<br>
 
 Users should be able to:
 
 -   View the optimal layout depending on their device's screen size.
 -   See hover and focus states for interactive elements.
 
-<br>
-
 ### Screenshots
-
-<br>
 
 ![Mobile](./public/assets/images/mobile.png)
 
@@ -38,29 +30,17 @@ Users should be able to:
 
 ![Desktop](./public/assets/images/desktop.png)
 
-<br>
-
 ## Links
-
-<br>
 
 [Live Site URL](https://mmc-product-preview-card-component.vercel.app)
 
-<br>
-
 ## Built With
-
-<br>
 
 -   HTML5
 -   CSS3
 -   [Google Fonts](https://fonts.google.com/)
 
-<br>
-
 ## Author
-
-<br>
 
 Matheus Mariano de Camargo <br>
 [Linkedin](https://www.linkedin.com/in/matheus-mariano-de-camargo-667488244/) <br>
